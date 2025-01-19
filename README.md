@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @DeathLines
 - 👀 I’m interested in Programming
-- Python/C++
-- 🌱 I’m currently learning C++
+- Python
+- C++
+- 🌱 I’m currently learning C#
 - 📫 How to reach me **Discord:** DeathLine#4555
 
 <!---
