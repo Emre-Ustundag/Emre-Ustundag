@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @DeathLines
+- 👋 Hi, I’m Emre
 - 👀 I’m interested in Programming
 - Python
 - C++
+- MSSQL
 - 🌱 I’m currently learning C#
 - 📫 How to reach me **Discord:** DeathLine#4555
 
