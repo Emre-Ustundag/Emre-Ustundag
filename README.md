@@ -3,7 +3,9 @@
 - Python
 - C++
 - MSSQL
-- 🌱 I’m currently learning C#
+- C#
+- API
+- Web Scraping
 - 📫 How to reach me **Discord:** DeathLine#4555
 
 <!---
