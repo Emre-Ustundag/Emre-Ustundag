@@ -6,7 +6,7 @@
 - C#
 - API
 - Web Scraping
-- 📫 How to reach me **Discord:** DeathLine#4555
+- 📫 How to reach me **mail:** emre.ustundag101@gmail.com
 
 <!---
 DeathLines/DeathLines is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
